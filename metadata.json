@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Rain Stopper",
+  "description": "Control rain particles in 3D using hand gestures. Inspired by the movie 'Now You See Me'.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
